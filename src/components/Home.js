@@ -39,7 +39,7 @@ const Home = () => {
       exit="exit"
     >
       <img src={logo} alt="pizza slice"/>
-      <h2>Welcome to Jem's Pizza Joint</h2>
+      <h2>Welcome to Jem's Pizza Parlor</h2>
       <Link to="/base">
         <motion.button
           variants={buttonVariants}
